@@ -1,0 +1,1 @@
+java -cp shooter.jar com.tarena.shoot.ShootGame
